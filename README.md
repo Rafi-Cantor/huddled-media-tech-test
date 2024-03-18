@@ -1,6 +1,6 @@
 # Huddled Media  Tech Test
 
-This project gives you updtes on the underground delays in London
+This project gives you updates on the underground delays in London
 
 # Setup .env file
 
