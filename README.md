@@ -1,9 +1,13 @@
-# React + Vite
+# Huddled Media  Tech Test
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project gives you updtes on the underground delays in London
 
-Currently, two official plugins are available:
+# Setup .env file
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# huddled-media-tech-test
+After you clone the repo you will need to add a .env file to the root of the projexct and add your secrets like shown below:
+
+```
+REACT_APP_APP_KEY=YOUR_APP_KEY
+REACT_APP_API_KEY=YOUR_API_KEY
+```
+
