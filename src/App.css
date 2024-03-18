@@ -1,0 +1,42 @@
+#root {
+  max-width: 1280px;
+  padding: 10px;
+  margin: auto;
+  text-align: center;
+}
+
+
+.main-content{
+  margin-left: 0;
+}
+
+.menu nav{
+  margin-left: auto;
+}
+
+.table_container{
+  overflow-x:auto;
+}
+
+table{
+  border-collapse: collapse;
+  width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: left;
+}
+
+table, th, td {
+  border: 1px solid;
+  padding: 5px;
+}
+
+
+.menu nav ul{
+  list-style-type: none;
+}
+
+.menu nav ul li{
+  display:inline-block;
+  padding: 10px;
+}
